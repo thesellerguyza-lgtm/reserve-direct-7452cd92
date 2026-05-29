@@ -1,0 +1,10 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "matjulukrugerlodge",
+  "compatibility_date": "2025-05-29",
+  "compatibility_flags": ["nodejs_compat"],
+  "pages_build_output_dir": ".output/public",
+  "observability": {
+    "enabled": true
+  }
+}
