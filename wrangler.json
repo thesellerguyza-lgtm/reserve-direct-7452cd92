@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "matjulukrugerlodge",
+  "name": "reserve-direct-7452cd92",
   "compatibility_date": "2025-05-29",
   "compatibility_flags": ["nodejs_compat"]
 }
