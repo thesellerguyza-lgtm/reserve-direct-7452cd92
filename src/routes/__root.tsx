@@ -8,7 +8,6 @@ import {
   Scripts,
 } from "@tanstack/react-router";
 
-import { BottomNav } from "@/components/BottomNav";
 import appCss from "../styles.css?url";
 
 function NotFoundComponent() {
